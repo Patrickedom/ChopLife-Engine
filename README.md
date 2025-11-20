@@ -12,7 +12,7 @@ It helps users discover ethical ways to earn, learn new skills, and grow financi
 - 💡 Ethical money-making insights  
 - 📚 Skill-building guidance  
 - 🤖 AI-driven financial growth tips  
-- 🌍 Non-commercial, open collaboration  
+- 🌍 Open collaboration  
 
 ## Run Locally
 
